@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Raport Power BI</h1>
-    <iframe width="800" height="600" src="https://app.powerbi.com/view?r=<iframe title="Portfolio2" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=f38d1c62-fb2a-48c7-b51a-a9ab389f4188&autoAuth=true&ctid=da5b8e16-3d13-44ec-b353-ef2ff62c2958" frameborder="0" allowFullScreen="true"></iframe>" frameborder="0" allowFullScreen="true"></iframe>
+    <iframe title="Portfolio2" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=f38d1c62-fb2a-48c7-b51a-a9ab389f4188&autoAuth=true&ctid=da5b8e16-3d13-44ec-b353-ef2ff62c2958" frameborder="0" allowFullScreen="true"></iframe>
 </body>
 </html>
